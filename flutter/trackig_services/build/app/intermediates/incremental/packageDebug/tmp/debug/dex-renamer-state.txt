@@ -1,0 +1,4 @@
+#Mon Aug 12 11:52:15 IST 2019
+base.0=/home/ravi/Desktop/FLutter-App/flutter/trackig_services/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
